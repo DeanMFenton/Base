@@ -1,0 +1,3 @@
+Use this function to allocate a buffer big enough for the protocol PDU.
+
+If a non-preemptive OS is used, timeout is ignored and function execution is non-blocking.
